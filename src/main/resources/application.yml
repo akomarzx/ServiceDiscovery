@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: ServerDiscoveryProject
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 8761
+  tomcat:
+    max-connections: 50
+    threads:
+      max: 50
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
