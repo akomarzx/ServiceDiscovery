@@ -8,7 +8,7 @@
         <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.ronaldjro.dev</groupId>
+    <groupId>dev.ronaldjro</groupId>
     <artifactId>ServiceDiscoveryProject</artifactId>
     <version>1.0</version>
     <name>ServiceDiscoveryProject</name>

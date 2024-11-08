@@ -1,4 +1,4 @@
-package com.ronaldjro.dev.servicediscoveryproject;
+package dev.ronaldjro.servicediscoveryproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.ronaldjro.dev.servicediscoveryproject;
+package dev.ronaldjro.servicediscoveryproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
